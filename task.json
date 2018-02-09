@@ -1,0 +1,11 @@
+{
+  "root": {
+    "design": {
+      "options": [{"val": 1}, {"val": 2}, {"val": 3}]
+    },
+    "comments": [0, 1, 2],
+    "data": {
+      "inner": [{"array": [{"x": 35}]}, {"array": [{"y": 15}]}]
+    }
+  }
+}
